@@ -1,0 +1,19 @@
+path: /content/drive/MyDrive/OI-PBC/PBC-YOLO-721  # Root directory of dataset
+train: images/train  # Train images (relative to 'path')
+val: images/val  # Validation images (relative to 'path')
+test: images/test  # Test images (optional)
+
+nc: 12  # Number of classes
+names: 
+  - BA
+  - BNE
+  - EO
+  - ERB
+  - LY
+  - MMY
+  - MO
+  - MY
+  - PLT
+  - PMY
+  - RBC
+  - SNE
