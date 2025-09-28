@@ -1,7 +1,6 @@
 # Comprehensive Benchmarking of YOLOv11 for Peripheral Blood Cell Detection
 
 [![arXiv](https://img.shields.io/badge/arXiv-Preprint-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX)
-[![License](https://img.shields.io/badge/License-ACM-blue)](LICENSE)
 [![YOLOv11](https://img.shields.io/badge/YOLO-v11-red)](https://github.com/ultralytics/ultralytics)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Dataset](https://img.shields.io/badge/Dataset-16,891%20images-orange)](https://github.com/Mohamad-AbouAli/OI-PBC-Dataset)
