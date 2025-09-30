@@ -47,6 +47,11 @@ For real-world hematology applications, we recommend:
 - **Robust Performance**: Consistent across all 12 cell classes
 - **Clinical Relevance**: Suitable for integration into diagnostic workflows
 
+**Quick Access:**
+- 🔗 [Read Paper](https://arxiv.org/abs/2509.24595)
+- 💾 [Download Dataset](https://github.com/Mohamad-AbouAli/OI-PBC-Dataset)
+
+
 ## Citation
 
 If you find our work or dataset useful, please consider citing our preprint:
@@ -56,6 +61,5 @@ If you find our work or dataset useful, please consider citing our preprint:
   title={Comprehensive Benchmarking of YOLOv11 Architectures for Scalable and Granular Peripheral Blood Cell Detection},
   author={Abou Ali, Mohamad and Abdulfattah, Mariam and Al Hussein, Baraah and Dornaika, Fadi and Cherry, Ali and Hajj-Hassan, Mohamad and Hamawy, Lara},
   journal={arXiv preprint arXiv:2509.24595},
-  year={2025},
-  note={\url{https://arxiv.org/abs/2509.24595}}
+  year={2025}}
 }
