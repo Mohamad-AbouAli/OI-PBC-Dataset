@@ -9,11 +9,11 @@
 
 This repository contains the official implementation for **"Comprehensive Benchmarking of YOLOv11 Architectitectures for Scalable and Granular Peripheral Blood Cell Detection"** (submitted to ArXiv). Our research provides a rigorous evaluation of YOLOv11 models for automated detection and classification of 12 peripheral blood cell types using a large-scale annotated dataset.
 
-**Key Findings:**
-- 🎯 **YOLOv11-Medium** achieves optimal balance with **93.4% mAP@0.5**
-- 📊 **8:1:1 data split** consistently outperforms traditional 7:2:1 split
-- ⚡ **Diminishing returns** observed beyond Medium variant
-- 🏥 **Clinical-ready** model selection for hematology applications
+**Key Highlights:**
+- ✅ Comprehensive evaluation of 5 YOLOv11 variants (Nano to XLarge)
+- ✅ Large-scale dataset: 16,891 images, 298,850 annotated cells across 12 classes
+- ✅ YOLOv11-Medium achieves optimal balance: mAP@0.5 of 0.934
+- ✅ Publicly released dataset for advancing hematology research
 
 
 
