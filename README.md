@@ -47,6 +47,9 @@ For real-world hematology applications, we recommend:
 - **Robust Performance**: Consistent across all 12 cell classes
 - **Clinical Relevance**: Suitable for integration into diagnostic workflows
 
+**Quick Access:**
+- 🔗 [Read Paper](https://arxiv.org/abs/2509.24595)
+
 ## Citation
 
 If you find our work or dataset useful, please consider citing our preprint:
@@ -59,5 +62,3 @@ If you find our work or dataset useful, please consider citing our preprint:
   year={2025}}
 }
 
-**Quick Access:**
-- 🔗 [Read Paper](https://arxiv.org/abs/2509.24595)
